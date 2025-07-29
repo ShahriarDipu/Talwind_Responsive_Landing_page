@@ -2,6 +2,17 @@
     width:85%;
     margin: auto;
 }
-.banner-color-txt{
+.color-txt{
     color:#E95A08;
+}
+.plants{
+    width:85%;
+    margin:auto;
+}
+
+button{
+    background-color:#E95A08;
+    padding:4px 30%;
+    color: #ffffff;
+    font-weight: 400;
 }
