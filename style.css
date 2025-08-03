@@ -10,7 +10,7 @@
     margin:auto;
 }
 
-button{
+.btn{
     background-color:#E95A08;
     padding:4px 30%;
     color: #ffffff;
@@ -26,4 +26,3 @@ button{
     width:700px;
     height:400px;
 }
-
